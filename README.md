@@ -5,7 +5,7 @@
 
 :link:&nbsp;
 [[Personal page]](https://gvinayak.github.io) - 
-[[LinkedIn]](https://www.linkedin.com/in/guptavinayak51/) -
+[[LinkedIn]](https://www.linkedin.com/in/guptavinayak51/)
 
 If you are looking for codes for my publications, please check [[Data-IITD]](https://github.com/data-iitd) GitHub. 
 
