@@ -12,5 +12,6 @@ If you are looking for codes for my publications, please check [[Data-IITD]](htt
 
 ## :flashlight: &nbsp; Highlights 
 :mortar_board: &nbsp; **Education**
-* Ph.D. in Computer Science at *IIT Delhi*
+* Ph.D. in Data Mining at *IIT Delhi*
   * Advised by [Prof. Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
+* B.Tech in Computer Science at *IIIT Jabalpur*
