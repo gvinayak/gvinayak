@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋  &nbsp; Hi there, I'm Vinayak Gupta
+👨‍💻 &nbsp; **Research Scientist** @ *IBM Research* (working on AI for Business Intelligence)
 
-<!--
-**gvinayak/gvinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:telescope: &nbsp; **Expertise**: Data  Mining, Time Series, and Graph Neural Networks.
 
-Here are some ideas to get you started:
+:link:&nbsp;
+[[Personal page]](https://gvinayak.github.io) - 
+[[LinkedIn]](https://www.linkedin.com/in/guptavinayak51/) -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are looking for codes for my publications, please check [[Data-IITD]](https://github.com/data-iitd) GitHub. 
+
+
+## :flashlight: &nbsp; Highlights 
+:mortar_board: &nbsp; **Education**
+* Ph.D. in Computer Science at *IIT Delhi*
+  * Advised by [Prof. Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
