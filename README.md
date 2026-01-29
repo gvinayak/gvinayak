@@ -1,7 +1,7 @@
 ## 👋  &nbsp; Hey! Vinayak here!
-👨‍💻 &nbsp; **ML Researcher** @ *Lawrence Livermore National Lab* (AI Research Group).
+👨‍💻 &nbsp; **AI Researcher** @ *Chan Zuckerberg Biohub*.
 
-:telescope: &nbsp; **Research Areas**: LLMs for Temporal Data, such as Time-Series, Sequential Recommender Systems, EHR Records, etc. 
+:telescope: &nbsp; **Research Areas**: AI x Science, Genomic and Proteomic Foundation Models, LLMs for Medical Temporal Data - EHR Records, etc. 
 
 :link:&nbsp;
 [[Personal page]](https://gvinayak.github.io) - 
